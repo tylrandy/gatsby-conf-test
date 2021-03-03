@@ -26,8 +26,7 @@ const IndexPage = () => {
           🎉🎉🎉
         </span>
       </h1>
-      <p>Hello my name is andy</p>
-      <p>Go to the <Link to='/about'>About page</Link></p>
+      <p>Hello my name is Andy</p>
     </main>
   )
 }
